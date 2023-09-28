@@ -1,0 +1,16 @@
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\bin\Debug\net7.0-windows\Lab-4 graded task.exe
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\bin\Debug\net7.0-windows\Lab-4 graded task.deps.json
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\bin\Debug\net7.0-windows\Lab-4 graded task.runtimeconfig.json
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\bin\Debug\net7.0-windows\Lab-4 graded task.dll
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\bin\Debug\net7.0-windows\Lab-4 graded task.pdb
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\obj\Debug\net7.0-windows\Lab_4_graded_task.Form1.resources
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\obj\Debug\net7.0-windows\Lab-4 graded task.csproj.GenerateResource.cache
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\obj\Debug\net7.0-windows\Lab-4 graded task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\obj\Debug\net7.0-windows\Lab-4 graded task.AssemblyInfoInputs.cache
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\obj\Debug\net7.0-windows\Lab-4 graded task.AssemblyInfo.cs
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\obj\Debug\net7.0-windows\Lab-4 graded task.csproj.CoreCompileInputs.cache
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\obj\Debug\net7.0-windows\Lab-4 graded task.dll
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\obj\Debug\net7.0-windows\refint\Lab-4 graded task.dll
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\obj\Debug\net7.0-windows\Lab-4 graded task.pdb
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\obj\Debug\net7.0-windows\Lab-4 graded task.genruntimeconfig.cache
+C:\Users\Mehrban Ali\source\repos\Lab-4 graded task\Lab-4 graded task\obj\Debug\net7.0-windows\ref\Lab-4 graded task.dll
