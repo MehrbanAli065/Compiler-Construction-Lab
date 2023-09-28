@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mehrban Ali\\source\\repos\\LAB-5 SYMBOL TABLE\\LAB-5 SYMBOL TABLE\\LAB-5 SYMBOL TABLE.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mehrban Ali\\source\\repos\\LAB-5 SYMBOL TABLE\\LAB-5 SYMBOL TABLE\\LAB-5 SYMBOL TABLE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mehrban Ali\\source\\repos\\LAB-5 SYMBOL TABLE\\LAB-5 SYMBOL TABLE\\LAB-5 SYMBOL TABLE.csproj",
+        "projectName": "LAB-5 SYMBOL TABLE",
+        "projectPath": "C:\\Users\\Mehrban Ali\\source\\repos\\LAB-5 SYMBOL TABLE\\LAB-5 SYMBOL TABLE\\LAB-5 SYMBOL TABLE.csproj",
+        "packagesPath": "C:\\Users\\Mehrban Ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehrban Ali\\source\\repos\\LAB-5 SYMBOL TABLE\\LAB-5 SYMBOL TABLE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mehrban Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
