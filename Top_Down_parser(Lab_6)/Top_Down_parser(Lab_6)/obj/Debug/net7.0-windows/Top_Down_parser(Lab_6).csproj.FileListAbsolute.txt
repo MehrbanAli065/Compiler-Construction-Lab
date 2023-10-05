@@ -1,0 +1,16 @@
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\bin\Debug\net7.0-windows\Top_Down_parser(Lab_6).exe
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\bin\Debug\net7.0-windows\Top_Down_parser(Lab_6).deps.json
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\bin\Debug\net7.0-windows\Top_Down_parser(Lab_6).runtimeconfig.json
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\bin\Debug\net7.0-windows\Top_Down_parser(Lab_6).dll
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\bin\Debug\net7.0-windows\Top_Down_parser(Lab_6).pdb
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\obj\Debug\net7.0-windows\Top_Down_parser_Lab_6_.Form1.resources
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\obj\Debug\net7.0-windows\Top_Down_parser(Lab_6).csproj.GenerateResource.cache
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\obj\Debug\net7.0-windows\Top_Down_parser(Lab_6).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\obj\Debug\net7.0-windows\Top_Down_parser(Lab_6).AssemblyInfoInputs.cache
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\obj\Debug\net7.0-windows\Top_Down_parser(Lab_6).AssemblyInfo.cs
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\obj\Debug\net7.0-windows\Top_Down_parser(Lab_6).csproj.CoreCompileInputs.cache
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\obj\Debug\net7.0-windows\Top_Down_parser(Lab_6).dll
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\obj\Debug\net7.0-windows\refint\Top_Down_parser(Lab_6).dll
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\obj\Debug\net7.0-windows\Top_Down_parser(Lab_6).pdb
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\obj\Debug\net7.0-windows\Top_Down_parser(Lab_6).genruntimeconfig.cache
+C:\Users\Mehrban Ali\source\repos\Top_Down_parser(Lab_6)\Top_Down_parser(Lab_6)\obj\Debug\net7.0-windows\ref\Top_Down_parser(Lab_6).dll
