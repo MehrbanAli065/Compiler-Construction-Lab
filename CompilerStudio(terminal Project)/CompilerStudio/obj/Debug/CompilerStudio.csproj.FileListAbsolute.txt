@@ -1,0 +1,10 @@
+C:\Users\Mehrban Ali\source\repos\CompilerStudio\CompilerStudio\bin\Debug\CompilerStudio.exe.config
+C:\Users\Mehrban Ali\source\repos\CompilerStudio\CompilerStudio\bin\Debug\CompilerStudio.exe
+C:\Users\Mehrban Ali\source\repos\CompilerStudio\CompilerStudio\bin\Debug\CompilerStudio.pdb
+C:\Users\Mehrban Ali\source\repos\CompilerStudio\CompilerStudio\obj\Debug\CompilerStudio.csproj.AssemblyReference.cache
+C:\Users\Mehrban Ali\source\repos\CompilerStudio\CompilerStudio\obj\Debug\CompilerStudio.Form1.resources
+C:\Users\Mehrban Ali\source\repos\CompilerStudio\CompilerStudio\obj\Debug\CompilerStudio.Properties.Resources.resources
+C:\Users\Mehrban Ali\source\repos\CompilerStudio\CompilerStudio\obj\Debug\CompilerStudio.csproj.GenerateResource.cache
+C:\Users\Mehrban Ali\source\repos\CompilerStudio\CompilerStudio\obj\Debug\CompilerStudio.csproj.CoreCompileInputs.cache
+C:\Users\Mehrban Ali\source\repos\CompilerStudio\CompilerStudio\obj\Debug\CompilerStudio.exe
+C:\Users\Mehrban Ali\source\repos\CompilerStudio\CompilerStudio\obj\Debug\CompilerStudio.pdb
